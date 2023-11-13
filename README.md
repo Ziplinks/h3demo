@@ -24,3 +24,6 @@ npm test
 ---
 
 This project was generated with [electron-vue](https://github.com/SimulatedGREG/electron-vue) using [vue-cli](https://github.com/vuejs/vue-cli). Documentation about the original structure can be found [here](https://simulatedgreg.gitbooks.io/electron-vue/content/index.html).
+
+
+![动画](https://github.com/Ziplinks/h3demo/assets/16461222/b8a96b57-2a8e-41b6-84ea-0ff764e2abc6)
